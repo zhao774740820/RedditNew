@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\studioworkspace\\RedditNews\\xListView\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\xlistview_footer.xml",
+        "source": "D:\\studioworkspace\\RedditNews\\xListView\\build\\intermediates\\bundles\\debug\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace\\RedditNews\\xListView\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\list_item.xml",
+        "source": "D:\\studioworkspace\\RedditNews\\xListView\\build\\intermediates\\bundles\\debug\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace\\RedditNews\\xListView\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\main.xml",
+        "source": "D:\\studioworkspace\\RedditNews\\xListView\\build\\intermediates\\bundles\\debug\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace\\RedditNews\\xListView\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\xlistview_header.xml",
+        "source": "D:\\studioworkspace\\RedditNews\\xListView\\build\\intermediates\\bundles\\debug\\res\\layout\\xlistview_header.xml"
+    }
+]

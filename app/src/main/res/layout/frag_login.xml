@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<!--<android.support.v4.view.ViewPager-->
+    <!--android:id="@+id/vp_login"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent">-->
+
+<!--</android.support.v4.view.ViewPager>-->
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="请输入账号"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:id="@+id/edit_login_name" />
+
+    <EditText
+        android:id="@+id/edit_login_password"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="请输入密码"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="20dp">
+        <Button
+            android:id="@+id/btn_login_zhuce"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="@mipmap/normalbutton_normal"
+            android:text="注册"
+            android:textSize="20sp"
+            android:textColor="#EEEEEE"/>
+        <Button
+            android:id="@+id/btn_login_pass"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="@mipmap/normalbutton_normal"
+            android:text="忘记密码"
+            android:textSize="20sp"
+            android:textColor="#EEEEEE"/>
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="@mipmap/normalbutton_normal"
+            android:text="登录"
+            android:textSize="20sp"
+            android:textColor="#EEEEEE"
+            android:id="@+id/btn_login_login"/>
+
+    </LinearLayout>
+</LinearLayout>

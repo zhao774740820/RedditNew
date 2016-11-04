@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Reddit News</string>
+    <string name="title">资讯</string>
+    <string name="er">军事</string>
+    <string name="san">社会</string>
+    <string name="zhuce">我同意“服务条款”和“网络用户隐私保护和个人信息利用政策”</string>
+
+</resources>
